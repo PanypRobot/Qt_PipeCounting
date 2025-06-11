@@ -1,10 +1,10 @@
-# PipeCount
+# Qt_PipeCounting
 
-#### 项目简介
-项目：钢管计数软件
-语言：C++
-库    ：Qt+OpenCV
-平台：MacOS
+#### Introduction
+Project:		Steel Pipe Counting Software  `<br>` 
+Language:	C++  `<br>` 
+Library:		Qt+OpenCV  `<br>` 
+Platform:	MacOS  `<br>` 
 
 
 
@@ -20,27 +20,21 @@
 
 
 
-#### 项目介绍
+#### Details
 
 **[Background]**
-● Successfully deployed in the factory
-● Open-sourced on Github
-
-
+● Successfully deployed in the factory  `<br>` 
+● Open-sourced on Github  `<br>` 
 
 **[Demo]**
 
-● Demo redirects to [bilibili](https://www.bilibili.com/video/BV1Zt4y1y7E7/?spm_id_from=333.337.search-card.all.click)
-
-
+● Demo redirects to [bilibili ](https://www.bilibili.com/video/BV1Zt4y1y7E7/?spm_id_from=333.337.search-card.all.click) `<br>` 
 
 **[Function]**
-● Software to assist steel pipes counting tasks to get rid of heavy visual fatigue in factories
-● The picture can choose from your computer files, from an independent camera, or even screenshots. What’s more, the final marked picture can be saved
-● To avoid some errors of machine vision in complex cases, the final count can be manually corrected
-
-
+● Software to assist steel pipes counting tasks to get rid of heavy visual fatigue in factories  `<br>` 
+● The picture can choose from your computer files, from an independent camera, or even screenshots. What’s more, the final marked picture can be saved  `<br>` 
+● To avoid some errors of machine vision in complex cases, the final count can be manually corrected  `<br>` 
 
 **[Realization]**
-● Computer Vision: **Hough Transform**
-● Coding: **Qt** (**Cross-platform**), **OpenCV**
+● Computer Vision: **Hough Transform**  `<br>` 
+● Coding: **Qt** (**Cross-platform**), **OpenCV ** `<br>` 
