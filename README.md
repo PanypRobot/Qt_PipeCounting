@@ -33,7 +33,7 @@ Platform:	MacOS
 
 
 
-**[Function] **  
+**[Function]**  
 ● Software to assist steel pipes counting tasks to get rid of heavy visual fatigue in factories   
 ● The picture can choose from your computer files, from an independent camera, or even screenshots. What’s more, the final marked picture can be saved  
 ● To avoid some errors of machine vision in complex cases, the final count can be manually corrected  
